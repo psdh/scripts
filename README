@@ -1,0 +1,6 @@
+This repo is a collection of small scripts that help in making my life easier by automating simple tasks.
+
+I am in the process of putting up a lot of my code online and it may take sometime.
+
+checkBuildHardened: Couple of small scripts for checking whether a fedora package build failure is due to hardening of the flags.
+subl.sh: for installation of sublime text
